@@ -1,0 +1,35 @@
+{
+  "patch": {
+    "supported": true
+  },
+  "bulk": {
+    "supported": false,
+    "maxOperations": 0,
+    "maxPayloadSize": 0
+  },
+  "filter": {
+    "supported": false,
+    "maxResults": 0
+  },
+  "changePassword": {
+    "supported": false
+  },
+  "sort": {
+    "supported": false
+  },
+  "etag": {
+    "supported": false
+  },
+  "authenticationSchemes": [
+    {
+      "name": "OAuth Bearer Token",
+      "description": "Authentication scheme using the OAuth Bearer Token Standard",
+      "specUri": "http://www.rfc-editor.org/info/rfc6750",
+      "type": "oauthbearertoken",
+      "primary": true
+    }
+  ],
+  "meta": {
+    "location": "/ServiceProviderConfig"
+  }
+}

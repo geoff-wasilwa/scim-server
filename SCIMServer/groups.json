@@ -1,0 +1,21 @@
+[
+  {
+    "id": "e9e30dba-f08f-4109-8486-d5c6a331660a",
+    "displayName": "Tour Guides",
+    "members": [
+      {
+        "value": "2819c223-7f76-453a-919d-413861904646",
+        "display": "Babs Jensen"
+      },
+      {
+        "value": "902c246b-6245-4190-8e05-00816be7344a",
+        "display": "Mandy Pepperidge"
+      }
+    ],
+    "meta": {
+      "resourceType": "Group",
+      "created": "2010-01-23T04:56:22Z",
+      "lastModified": "2011-05-13T04:42:34Z"
+    }
+  }
+]
